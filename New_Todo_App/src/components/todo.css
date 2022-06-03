@@ -1,0 +1,15 @@
+.itemchecked{
+    text-decoration: line-through;
+    color: green;
+    
+} 
+ .item{
+    color: black;
+} 
+.todo{
+    border: 1px solid black; 
+     height: 400px; 
+     width: 30%;
+    margin: auto;
+    box-shadow: 0px 0px 5px rgb(129, 147, 117);
+}

@@ -1,0 +1,343 @@
+[
+    {
+        "id":1,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipOQv8o7UCDi59PXdMmfJEzjkWWFayuv5-hS1p9A=w90-h90-n-k-no",
+        "name":"9th Street",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 250,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.2,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":2,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipNbOusEvGniqijeZBoxQkQpwrrqLpRDsOiI-4VF=w90-h90-n-k-no",
+        "name":"Malva Restuarant",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 350,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 4.2,
+        "votes": 1841,
+        "reviews": 2010
+    },
+    {
+        "id":3,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipP9BJu6HdKdQG-8I8j2S3tTJC-KW3DrgLHoa8RS=w90-h90-n-k-no",
+        "name":"Mainland China",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 450,
+        "min": 200,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": false,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 4.3,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":4,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipP8SGi5Cu_h36jM_KLEjMGK_7a8xJ-_T3ssAfKY=w90-h90-n-k-no",
+        "name":"Narula's Restuarant",
+        "Cuisines":["Thai", "European", "Chinese"],
+        "Cost_for_two": 550,
+        "min": 350,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 4.1,
+        "votes": 741,
+        "reviews": 2010
+    },
+    {
+        "id":5,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipMG4X8wWm76gi_5XToUPrddnKGJE4o34Va3y7y5=w90-h90-n-k-no",
+        "name":"Tangerine 9",
+        "Cuisines":["Thai","Indian"],
+        "Cost_for_two": 600,
+        "min": 100,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 3.9,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":6,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipO5gutgU7JkeOnvBCBjOtrH8CsyIl3dhgFxQfiU=w90-h90-n-k-no",
+        "name":"KANIKA",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 650,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "rating": 4.3,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":7,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipPh2ZyH_LweNb31iJsJrk20gn_gI9CmZxtSXBnW=w90-h90-n-k-no",
+        "name":"Barbeque Nation",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 1000,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.5,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":8,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipMUNQk6dEQKGEVlyy22mg1_6u0WEpYfD0gIy1zR=w90-h90-n-k-no",
+        "name":"Taste of China",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 1200,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.1,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":9,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipMwNtgmu-V8hW5hGieaQpvI81jd2fpiH00LChst=w90-h90-n-k-no",
+        "name":"Havana Cafe and Resto",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 250,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.75,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":10,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipM8ktajCvi0PhSn3v2ESJPannC0N96jdN8Gjop2=w90-h90-n-k-no",
+        "name":"Venus Inn Restuarant",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 300,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.1,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":11,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipOcDS1wu0OhzIKvnzqJBoCNhSysUqlJpuBSrbWQ=w90-h90-n-k-no",
+        "name":"Breeze",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 800,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 4.0,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":12,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipPhsbsIUFSQL9TIJEuYwhyiqjEwG5zvgHh_QqwB=w90-h90-n-k-no",
+        "name":"Aangan Horizon",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 100,
+        "min": 200,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": false,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 3.6,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":13,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipOtVZ4QSv0JCkMTMbcZJKwKp-wBTEu6yQj2dQ2b=w90-h90-n-k-no",
+        "name":"Twenty One Restuarant",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 765,
+        "min": 250,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 3.2,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":14,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipO4MF80cgb-wviof2Cf_1UXtheckxbevnxVmXeZ=w90-h90-n-k-no",
+        "name":"Shree Kunj Restuarant",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 555,
+        "min": 150,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "rating":2.4,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":15,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipOs8L4S1nQBiO94hjNQZWyAEqriTWC5HnttSuLS=w90-h90-n-k-no",
+        "name":"Hotel Priya",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 150,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": false
+        },
+        "rating": 1.32,
+        "votes": 1741,
+        "reviews": 2010
+    }
+     ,
+    {
+        "id":16,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipP2zXBoT5yO3NFAUHvrooBm8jHRw8bxscrDY0Pn=w90-h90-n-k-no",
+        "name":"The Chef",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 2500,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 2.6,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":17,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipOxIWUl9wHqYoGFJVwnLO3_nLLS-siMp-KqHkX8=w90-h90-n-k-no",
+        "name":"Keeva Restuarant & Banquet",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 2050,
+        "min": 200,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": false,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 3.7,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":18,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipMsrqchuCVbcpc4P1drt_QBrHsU_IqaXZ8j767H=w90-h90-n-k-no",
+        "name":"Country Kitchen",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 280,
+        "min": 250,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": true
+        },
+        "rating": 3.6,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":19,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipNyCUkYiTIzt8vMVQLNWMG629ltzTHmTo-L52ym=w90-h90-n-k-no",
+        "name":"Moody Blues",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 1250,
+        "min": 150,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": false,
+            "cash": true,
+            "upi": false
+        },
+        "rating": 4.75,
+        "votes": 1741,
+        "reviews": 2010
+    },
+    {
+        "id":20,
+        "img":"https://lh5.googleusercontent.com/p/AF1QipP8pQO92FbXi-b9Lo3Amvym4_exD1epXS7ZSM0E=w90-h90-n-k-no",
+        "name":"BOCCA CAFE",
+        "Cuisines":["Thai", "European","Mexican", "Chinese"],
+        "Cost_for_two": 1150,
+        "min": 300,
+        "deliverytime":30,
+        "payment_methods":{
+            "card": true,
+            "cash": false,
+            "upi": false
+        },
+        "rating": 4.2,
+        "votes": 1741,
+        "reviews": 2010
+    }
+]

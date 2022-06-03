@@ -1,0 +1,8 @@
+.cards{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+.cards>li{
+    margin-left: 20px;
+}

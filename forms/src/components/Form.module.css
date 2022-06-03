@@ -1,0 +1,10 @@
+.redBorder{
+    border:1px solid red
+}
+.showData{
+    /* border: 1px solid red; */
+    display: flex;
+justify-content: space-evenly;
+background-color: aqua;
+color: white;
+}

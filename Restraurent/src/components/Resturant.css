@@ -1,0 +1,92 @@
+.container{
+    border: 0.1rem solid black;
+    margin: auto;
+    width: 45%;
+    margin-top: 10px;
+   display: flex;
+  flex-direction: column;
+    height: 280px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.box1{
+    height: 90%;
+    /* border-bottom: 1px solid slateblue; */
+    display: flex;
+    
+}
+
+.box2{
+    height: 10%;
+ border-radius: 5px;
+    text-align: right;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-right: 25px;
+    /* color: ; */
+    background-color: rgb(224, 236, 203);
+    width: 22%;
+    margin-left: 73.4%;
+    cursor: pointer;
+}
+.box1 > div{
+   width: 33%;
+
+}
+.middlebox{
+    line-height: 0.9;
+    text-align: left;
+    /* border: 1px solid black; */
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -9%;
+    font-weight: bold;
+}
+.imgdiv{
+    padding-top: 5%;
+}
+img{
+   height: 150px;
+}
+.name{
+    color: brown;
+    margin-top: 16%;
+}
+.cuisines {
+    color: saddlebrown;
+    margin-bottom: -3%;
+    font-weight: bold;
+}
+.cost{
+    color: teal;
+    margin-bottom: -3%;
+    font-weight: bold;
+}
+.payment{
+    font-weight: bold;
+}
+.rightbox{
+    padding-top: 5%;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 5%;
+}
+.votes{
+    margin-top: -4%;
+    color: aqua;
+}
+.reviews{
+    margin-top: -8%;
+    color: grey;
+}
+.rating{
+    border: 1px solid black;
+    width: 20%;
+    padding: 5px;
+    background-color: red;
+    font-weight: bold;
+    color: honeydew;
+    margin-left: 80%;
+    border-radius: 3px;
+}
